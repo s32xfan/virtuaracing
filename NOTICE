@@ -1,0 +1,15 @@
+# Legal Notice & Disclaimers
+
+### Non-Affiliation
+This project is an independent, unofficial native runtime and AOT recompiler. It is not affiliated with, endorsed by, or sponsored by SEGA Corporation or any of its affiliates.
+
+### Trademarks
+"SEGA", "Genesis", "Mega Drive", "Sega 32X", and "Virtua Racing" are registered trademarks of SEGA Corporation and/or its affiliates. Any reference to these names in this project is strictly descriptive to indicate hardware and cartridge compatibility, and does not imply endorsement, sponsorship, or affiliation.
+
+### Zero Copyrighted Assets Policy
+This software is distributed solely as an execution runtime and contains **no copyrighted game data, ROM files, extracted textures, audio, 3D models, or game assets**. 
+
+To use this software, users must provide their own legally acquired retail game cartridge dump. This project does not distribute, host, download, or provide links to obtain proprietary game files.
+
+### Licensing
+Original software and documentation authored for this project are licensed under the MIT License — see [`LICENSE`](LICENSE). Third-party components and algorithmic credits are documented in [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md).

@@ -1,0 +1,34 @@
+MIT License
+
+Scope: this MIT grant covers everything authored for this project and
+present in this repository -- not only source code, but also the
+project-authored data that ships with it: the disassembler entry-point
+manifests, the asset-pack manifest, the documentation and the build and
+audit tooling.
+
+It does not extend to the Sega 32X cartridge content, to any asset,
+graphics, text, audio or byte data derived from a ROM, or to the
+disassembly listings and ahead-of-time translation units that a user
+generates locally on their own machine from their own cartridge dump.
+None of that material is present in this repository, and no rights in it
+are granted here. See NOTICE for the same boundary.
+
+Copyright (c) 2026 VR32X Native Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
